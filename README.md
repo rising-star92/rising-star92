@@ -79,9 +79,17 @@ Please contact me with ryan.service.1001@gmail.com.
 </table>
 
 ## About me
-* I am an entrepreneurial software engineer heavily focusing on web development as a Full-stack.
-* My focus is to help clients with their business by fixing and creating projects of value.
-* I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
-* My experience tells everybody who I am, what I can do for your project.
 
-* A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am lucky.
+* I am a full-stack web engineer, have an excellent background as a web developer along with my academic education in Computer Science and Technology.
+
+* I have a deep knowledge of frontend and backend with 8 years of experiences in web development and I had attended on many projects such as eCommerce, Healthcare, Webinar, LMS, Rental & Booking System, Marketplace,  Mobility services.
+
+* I am very fluent with many programming languages like JavaScritp/TypeScript, .NET, Python, and PHP, and am very familiar JavaScritp libraries and frameworks like React.js, Vue.js and Angular.
+
+* I had worked with many frameworks like Node.js/Express, PHP/Laravel, Python/Django and ASP.NET/Entity to build the backend services and RESTful APIs for web and mobile applications. And also I am expert in designing and managing the both SQL & NoSQL databases like MySQL, MS SQL Server, PostgreSQL, MongoDB, and so on.
+
+* I had also used the AWS cloud services, including EC2, Lambda, Kinesis, Media Converter, S3, DynamoDB, and CloudFront.
+
+* I have worked on many startup projects related to blockchains and crypto assets/coins, gaining experience covering blockchain, consensus algorithms, Smart Contract, Merkle Tree, Web3, DEX/Defi, and DAO and contributed to multiple whitepapers and been involved in several completed ICO. 
+
+* I would like to inform one more here my favorite skills of mine are WebRTC and video/audio streaming skills and I had got deep knowledge about technologies such as RTMP, RTSP/RTP, HLS, SRT, WebRTC.
