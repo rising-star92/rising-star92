@@ -80,16 +80,14 @@ Please contact me with ryan.service.1001@gmail.com.
 
 ## About me
 
-* I am a full-stack web engineer, have an excellent background as a web developer along with my academic education in Computer Science and Technology.
+Senior Backend Engineer specializing in Python language
 
-* I have a deep knowledge of frontend and backend with 8 years of experiences in web development and I had attended on many projects such as eCommerce, Healthcare, Webinar, LMS, Rental & Booking System, Marketplace,  Mobility services.
-
-* I am very fluent with many programming languages like JavaScritp/TypeScript, .NET, Python, and PHP, and am very familiar JavaScritp libraries and frameworks like React.js, Vue.js and Angular.
-
-* I had worked with many frameworks like Node.js/Express, PHP/Laravel, Python/Django and ASP.NET/Entity to build the backend services and RESTful APIs for web and mobile applications. And also I am expert in designing and managing the both SQL & NoSQL databases like MySQL, MS SQL Server, PostgreSQL, MongoDB, and so on.
-
-* I had also used the AWS cloud services, including EC2, Lambda, Kinesis, Media Converter, S3, DynamoDB, and CloudFront.
-
-* I have worked on many startup projects related to blockchains and crypto assets/coins, gaining experience covering blockchain, consensus algorithms, Smart Contract, Merkle Tree, Web3, DEX/Defi, and DAO and contributed to multiple whitepapers and been involved in several completed ICO. 
-
-* I would like to inform one more here my favorite skills of mine are WebRTC and video/audio streaming skills and I had got deep knowledge about technologies such as RTMP, RTSP/RTP, HLS, SRT, WebRTC.
+* Professional Python Backend Engineer with extensive in Django, Flask, FastAPI, GraphQL, Microservices, RESTful, gRPC
+  
+* Strong experience with SQL and NoSQL databases including PostgreSQL, MySQL and MongoDB
+  
+* Practical knowledge of front end in React/Redux, HTML, CSS
+  
+* Experienced with all stages of the development cycle for dynamic web projects
+  
+* Well-versed in numerous skills including DevOps, Blockchain, Video Streaming, WebRTC
