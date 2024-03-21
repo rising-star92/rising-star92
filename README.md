@@ -89,7 +89,6 @@ Senior Backend Engineer specializing in Python language
 
 ## Statistics
 
-<br>
 <div align=center>
   <a href="#" title="Go to Source">
     <img height="200em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=rising-star92&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark"/>
