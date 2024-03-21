@@ -87,7 +87,7 @@ Senior Backend Engineer specializing in Python language
   
 * Well-versed in numerous skills including DevOps, Blockchain, Video Streaming, WebRTC
 
-## GitHub States
+## GitHub Stats
 
 <div align=center>
   <a href="#" title="Go to Source">
