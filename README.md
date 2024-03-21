@@ -5,11 +5,6 @@
 
 Please contact me with ryan.service.1001@gmail.com.
 
-## Welcome
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=rising-star92&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
-![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rising-star92&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
-
 ## Top Skills
 <table>
   <tr>
@@ -91,3 +86,8 @@ Senior Backend Engineer specializing in Python language
 * Experienced with all stages of the development cycle for dynamic web projects
   
 * Well-versed in numerous skills including DevOps, Blockchain, Video Streaming, WebRTC
+
+## GitHub Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=rising-star92&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
+![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rising-star92&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
