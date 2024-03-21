@@ -92,9 +92,9 @@ Senior Backend Engineer specializing in Python language
 <br>
 <div align=center>
   <a href="#" title="Go to Source">
-    <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=rising-star92&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark"/>
+    <img height="180em" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=rising-star92&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark"/>
   </a>
   <a href="#" title="Go to Source">
-    <img height="180em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rising-star92&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true"/>
+    <img height="180em" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rising-star92&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true"/>
   </a>
 </div>
