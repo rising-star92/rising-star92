@@ -5,6 +5,20 @@
 
 Please contact me with ryan.service.1001@gmail.com.
 
+## About me
+
+Senior Backend Engineer specializing in Python language
+
+* Professional Python Backend Engineer with extensive in Django, Flask, FastAPI, GraphQL, Microservices, RESTful, gRPC
+  
+* Strong experience with SQL and NoSQL databases including PostgreSQL, MySQL and MongoDB
+  
+* Practical knowledge of front end in React/Redux, HTML, CSS
+  
+* Experienced with all stages of the development cycle for dynamic web projects
+  
+* Well-versed in numerous skills including DevOps, Blockchain, Video Streaming, WebRTC
+
 ## Top Skills
 <table>
   <tr>
@@ -72,20 +86,6 @@ Please contact me with ryan.service.1001@gmail.com.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png" width="100"></td>
   </tr>
 </table>
-
-## About me
-
-Senior Backend Engineer specializing in Python language
-
-* Professional Python Backend Engineer with extensive in Django, Flask, FastAPI, GraphQL, Microservices, RESTful, gRPC
-  
-* Strong experience with SQL and NoSQL databases including PostgreSQL, MySQL and MongoDB
-  
-* Practical knowledge of front end in React/Redux, HTML, CSS
-  
-* Experienced with all stages of the development cycle for dynamic web projects
-  
-* Well-versed in numerous skills including DevOps, Blockchain, Video Streaming, WebRTC
 
 ## GitHub Stats
 
