@@ -1,10 +1,6 @@
 # Thanks for visiting my Git!
 <a target="blank" href="https://profile-counter.glitch.me/rising-star92/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/rising-star92/count.svg" /></a>
 
-## Contact Me!
-
-Please contact me with ryan.service.1001@gmail.com.
-
 ## About me
 
 Senior Backend Engineer specializing in Python language
